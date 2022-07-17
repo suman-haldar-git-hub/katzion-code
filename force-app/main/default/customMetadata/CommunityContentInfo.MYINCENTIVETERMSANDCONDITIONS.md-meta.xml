@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>MYINCENTIVETERMSANDCONDITIONS</label>
+    <protected>false</protected>
+    <values>
+        <field>BaseURL__c</field>
+        <value xsi:nil="true" />
+    </values>
+    <values>
+        <field>Content__c</field>
+        <value xsi:type="xsd:string">&lt;li&gt; I am an Australian Tax Resident.&lt;/li&gt;
+                        &lt;li&gt; I have read and understood the &lt;a href=&quot;https://wowpeople.woolworths.com.au/content/wowPeoplePortal/en/homePage/contents/contentPage/salary_sacrifice.html&quot; target=&quot;_blank&quot;&gt;Salary Sacrifice Policy&lt;/a&gt; and agree to abide by the provisions which may be varied from time to time. &lt;/li&gt;
+                        &lt;li&gt;I understand that Woolworths is required to make a superannuation contribution equivalent to the super guaranteed amount of any taxable income payment I may receive from MyIncentive, up to the maximum super contribution base as per ATO legislation.&lt;/li&gt;
+                        &lt;li&gt;In addition, I would like Woolworths to make a pre-tax contribution into my superannuation for the percentage nominated in my application in place of any payment that I may become eligible to receive in cash, in relation to the Full Year MyIncentive I am nominating for.&lt;/li&gt;
+                        &lt;li&gt;I understand that the standard tax amount will be deducted from the superannuation contribution and if my total concessional contributions exceed the concessional contributions cap for the financial year as per &lt;a href=&quot;https://www.ato.gov.au/individuals/super/in-detail/growing-your-super/super-contributions---too-much-can-mean-extra-tax/&quot; target=&quot;_blank&quot;&gt;current legislation&lt;/a&gt; I will incur additional tax on my superannuation contributions.&lt;/li&gt;</value>
+    </values>
+    <values>
+        <field>PageName__c</field>
+        <value xsi:nil="true" />
+    </values>
+    <values>
+        <field>SectionName__c</field>
+        <value xsi:nil="true" />
+    </values>
+</CustomMetadata>

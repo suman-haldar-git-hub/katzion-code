@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <description>Equipment Request-Equipment Request</description>
+    <label>1</label>
+    <protected>false</protected>
+    <values>
+        <field>Additional_Comments__c</field>
+        <value xsi:type="xsd:string">&lt;p&gt;&lt;span&gt;&lt;b&gt;Employee Equipment Program&lt;/b&gt;&lt;/span&gt;
+&lt;span&gt;This form is to be filled in for all Woolworths Group employees if you wish to be provided equipment for working remotely. Please note you must collect this equipment yourself from your primary office location.&lt;/span&gt;
+&lt;span&gt;Contractors or Consultants who are paid by an Agency or are Third Party Suppliers are expected to provide their own tools of the trade as part of the required business tools as per the Woolworths Technology Handbook.&lt;/span&gt;
+&lt;span&gt;Please review the Woolworths Technology Handbook before proceeding with any orders of equipment to ensure eligibility and meeting remote working standards.&lt;/span&gt;
+&lt;a href=&quot;https://drive.google.com/file/d/16KKpGZxbePPrDvwzBJP1nH2Ey1km4JEp/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;Click Here&lt;/a&gt; &lt;/p&gt;</value>
+    </values>
+    <values>
+        <field>Category__c</field>
+        <value xsi:type="xsd:string">Equipment Request</value>
+    </values>
+    <values>
+        <field>Field_Set__c</field>
+        <value xsi:type="xsd:string">EquipmentRequest_WF_UI</value>
+    </values>
+    <values>
+        <field>Related_List_Needed__c</field>
+        <value xsi:type="xsd:boolean">false</value>
+    </values>
+    <values>
+        <field>Related_To__c</field>
+        <value xsi:type="xsd:string">Webform</value>
+    </values>
+    <values>
+        <field>Sub_Category__c</field>
+        <value xsi:type="xsd:string">Equipment Request</value>
+    </values>
+</CustomMetadata>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>DESSUBMITCATS</label>
+    <protected>false</protected>
+    <values>
+        <field>BaseURL__c</field>
+        <value xsi:nil="true" />
+    </values>
+    <values>
+        <field>Content__c</field>
+        <value xsi:type="xsd:string">You may not have submitted enough hours for the period of &lt;b&gt;submitStart - submitEnd&lt;/b&gt;. Please complete your CATS timesheet for the period mentioned before midday Friday of the week that the time relates to, to allow sufficient time for review and approval prior to close of business (COB). Your billable time entered should be the same as your target hours. For contractors and external team members, please ensure you utilise the &#39;Contractor Non-work Time&#39; attendance type for any absences.&lt;br&gt;&lt;br&gt;
+
+For team members on the Woolworths network, you can use &lt;a href=&quot;http://pkgpw2wd.woolworths.com.au:8137/irj/portal/CATS&quot;&gt;this link&lt;/a&gt; to access CATS or click the &quot;Action&quot; button below to access it via the MyApps portal.&lt;br&gt;&lt;br&gt;
+
+For team members working from home/off site who aren&#39;t on the Woolworths network, please click the &quot;Action&quot; button below to access CATS via the MyApps portal.&lt;br&gt;&lt;br&gt;
+
+1. Login to CATS and complete any outstanding timesheets for this period if you haven&#39;t already&lt;br&gt;
+2. Please mark this task as done as CATS will not automatically update the status on TeamSpace&lt;br&gt;&lt;br&gt;
+
+If you require further information, please refer to this &lt;a href=&quot;/s/article/CATS-Timesheet-Management-System&quot;&gt;knowledge article&lt;/a&gt;.</value>
+    </values>
+    <values>
+        <field>PageName__c</field>
+        <value xsi:nil="true" />
+    </values>
+    <values>
+        <field>SectionName__c</field>
+        <value xsi:type="xsd:string">CATS</value>
+    </values>
+</CustomMetadata>

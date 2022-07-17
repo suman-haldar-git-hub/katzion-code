@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>HomeStep5</label>
+    <protected>false</protected>
+    <values>
+        <field>Content__c</field>
+        <value xsi:type="xsd:string">Need help? Explore our range of FAQs and support articles.</value>
+    </values>
+    <values>
+        <field>FeatureControl__c</field>
+        <value xsi:type="xsd:string">WalkthroughHome</value>
+    </values>
+    <values>
+        <field>Header__c</field>
+        <value xsi:type="xsd:string">Help &amp; Support</value>
+    </values>
+    <values>
+        <field>SequenceNumber__c</field>
+        <value xsi:type="xsd:double">5.0</value>
+    </values>
+    <values>
+        <field>TooltipPosition__c</field>
+        <value xsi:type="xsd:string">Left</value>
+    </values>
+</CustomMetadata>

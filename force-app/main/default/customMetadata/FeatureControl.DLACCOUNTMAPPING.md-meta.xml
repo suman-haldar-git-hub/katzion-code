@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>DLACCOUNTMAPPING</label>
+    <protected>false</protected>
+    <values>
+        <field>Active__c</field>
+        <value xsi:type="xsd:boolean">true</value>
+    </values>
+    <values>
+        <field>Content__c</field>
+        <value xsi:type="xsd:string">Company__c:Account.CompanyCode__c;Group__c:Account.GroupCode__c;Brand__c:Account.BrandCode__c;OpsSupport__c:Account.OpsSupport__c;Region__c:Account.RegionCode__c;Area__c:Account.Area_Dept_Name__c;CareerLevel__c:Account.CareerLevelCode__c;IsLineManager__c:Account.IsLineManager__c;HasDOA__c:Account.HasDOA__c;Country__c:Account.Country__c;Location__c:Account.Location_Name__c;TeamMemberIdentifier__c:Account.TeamMemberIdentifier__c:includes</value>
+    </values>
+    <values>
+        <field>EligibleProfileForUTLCreation__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>EnableCommsBatches__c</field>
+        <value xsi:type="xsd:boolean">false</value>
+    </values>
+    <values>
+        <field>EnableLeaveBatches__c</field>
+        <value xsi:type="xsd:boolean">false</value>
+    </values>
+    <values>
+        <field>EnableSSBatches__c</field>
+        <value xsi:type="xsd:boolean">false</value>
+    </values>
+    <values>
+        <field>EnableUTLBatches__c</field>
+        <value xsi:type="xsd:boolean">false</value>
+    </values>
+    <values>
+        <field>ModuleName__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>PublicGroupCreationProfile__c</field>
+        <value xsi:nil="true"/>
+    </values>
+</CustomMetadata>

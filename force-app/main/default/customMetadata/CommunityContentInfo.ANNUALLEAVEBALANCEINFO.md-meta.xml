@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>ANNUALLEAVEBALANCEINFO</label>
+    <protected>false</protected>
+    <values>
+        <field>BaseURL__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>Content__c</field>
+        <value xsi:type="xsd:string">&lt;p&gt;A summary of your team’s accrued annual leave is shown here. Use &lt;strong&gt;nudge&lt;/strong&gt; to craft and send tasks to team members with excess annual leave. This can form part of your regular leave check-ins and planning with your team.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;*Working weeks are calculated using individual base hours&lt;/p&gt;</value>
+    </values>
+    <values>
+        <field>PageName__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>SectionName__c</field>
+        <value xsi:nil="true"/>
+    </values>
+</CustomMetadata>

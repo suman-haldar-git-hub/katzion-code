@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <description>Mail Room / Dock Process-Access to Storage</description>
+    <label>28</label>
+    <protected>false</protected>
+    <values>
+        <field>Additional_Comments__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>Category__c</field>
+        <value xsi:type="xsd:string">Mail Room / Dock Process</value>
+    </values>
+    <values>
+        <field>Field_Set__c</field>
+        <value xsi:type="xsd:string">WPS_Samples_Access_Storage</value>
+    </values>
+    <values>
+        <field>Related_List_Needed__c</field>
+        <value xsi:type="xsd:boolean">false</value>
+    </values>
+    <values>
+        <field>Related_To__c</field>
+        <value xsi:type="xsd:string">Webform</value>
+    </values>
+    <values>
+        <field>Sub_Category__c</field>
+        <value xsi:type="xsd:string">Access to Storage</value>
+    </values>
+</CustomMetadata>

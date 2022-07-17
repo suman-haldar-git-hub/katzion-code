@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Sherlock Queue Creation</label>
+    <protected>false</protected>
+    <values>
+        <field>UiPath__CreatedDate__c</field>
+        <value xsi:type="xsd:dateTime">2021-03-26T00:06:54.000Z</value>
+    </values>
+    <values>
+        <field>UiPath__Description__c</field>
+        <value xsi:nil="true" />
+    </values>
+    <values>
+        <field>UiPath__JobsCount__c</field>
+        <value xsi:nil="true" />
+    </values>
+    <values>
+        <field>UiPath__LastModifiedDate__c</field>
+        <value xsi:type="xsd:dateTime">2021-03-26T00:06:54.000Z</value>
+    </values>
+    <values>
+        <field>UiPath__ObjectName__c</field>
+        <value xsi:type="xsd:string">Case</value>
+    </values>
+    <values>
+        <field>UiPath__Priority__c</field>
+        <value xsi:nil="true" />
+    </values>
+    <values>
+        <field>UiPath__QueueCommitType__c</field>
+        <value xsi:type="xsd:string">AllOrNothing</value>
+    </values>
+    <values>
+        <field>UiPath__QueueName__c</field>
+        <value xsi:type="xsd:string">RPA827-EarningsReport</value>
+    </values>
+    <values>
+        <field>UiPath__ReleaseKey__c</field>
+        <value xsi:nil="true" />
+    </values>
+    <values>
+        <field>UiPath__RobotIds__c</field>
+        <value xsi:nil="true" />
+    </values>
+    <values>
+        <field>UiPath__SelectedFields__c</field>
+        <value xsi:type="xsd:string">[{&quot;field&quot;:&quot;Id&quot;,&quot;format&quot;:&quot;String&quot;},{&quot;field&quot;:&quot;CaseNumber&quot;,&quot;format&quot;:&quot;String&quot;},{&quot;field&quot;:&quot;RecordTypeId&quot;,&quot;format&quot;:&quot;String&quot;},{&quot;field&quot;:&quot;Employee_ID__c&quot;,&quot;format&quot;:&quot;String&quot;},{&quot;field&quot;:&quot;Employee_Name__c&quot;,&quot;format&quot;:&quot;String&quot;},{&quot;field&quot;:&quot;SuppliedName&quot;,&quot;format&quot;:&quot;String&quot;},{&quot;field&quot;:&quot;Preferred_Email__c&quot;,&quot;format&quot;:&quot;String&quot;},{&quot;field&quot;:&quot;Date_From__c&quot;,&quot;format&quot;:&quot;Datetime&quot;},{&quot;field&quot;:&quot;Date_To__c&quot;,&quot;format&quot;:&quot;Datetime&quot;},{&quot;field&quot;:&quot;Category__c&quot;,&quot;format&quot;:&quot;String&quot;},{&quot;field&quot;:&quot;Sub_Category__c&quot;,&quot;format&quot;:&quot;String&quot;},{&quot;field&quot;:&quot;Logged_On_Behalf_Of_Name__c&quot;,&quot;format&quot;:&quot;String&quot;},{&quot;field&quot;:&quot;On_Behalf_Of_Employee_Id__c&quot;,&quot;format&quot;:&quot;String&quot;}]</value>
+    </values>
+    <values>
+        <field>UiPath__Source__c</field>
+        <value xsi:nil="true" />
+    </values>
+    <values>
+        <field>UiPath__Strategy__c</field>
+        <value xsi:nil="true" />
+    </values>
+    <values>
+        <field>UiPath__TemplateType__c</field>
+        <value xsi:type="xsd:string">Queue</value>
+    </values>
+    <values>
+        <field>UiPath__TenantConnection__c</field>
+        <value xsi:type="xsd:string">People_Systems</value>
+    </values>
+</CustomMetadata>

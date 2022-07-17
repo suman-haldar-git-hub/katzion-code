@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Ops Support - Transformation</label>
+    <protected>false</protected>
+    <values>
+        <field>DataCategoryGroupName__c</field>
+        <value xsi:type="xsd:string">OrgHierarchy</value>
+    </values>
+    <values>
+        <field>DataCategoryName__c</field>
+        <value xsi:type="xsd:string">OpsSupportTransformation</value>
+    </values>
+    <values>
+        <field>PermissionSetApiName__c</field>
+        <value xsi:type="xsd:string">OpsSupportTransformation</value>
+    </values>
+    <values>
+        <field>PrimaryKey__c</field>
+        <value xsi:type="xsd:string">1000_10000003_11000003_Transformation</value>
+    </values>
+    <values>
+        <field>RegionAreaF__c</field>
+        <value xsi:nil="true"/>
+    </values>
+</CustomMetadata>

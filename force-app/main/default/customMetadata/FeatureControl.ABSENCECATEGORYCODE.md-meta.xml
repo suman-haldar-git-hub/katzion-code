@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>ABSENCECATEGORYCODE</label>
+    <protected>false</protected>
+    <values>
+        <field>Active__c</field>
+        <value xsi:type="xsd:boolean">false</value>
+    </values>
+    <values>
+        <field>Content__c</field>
+        <value xsi:type="xsd:string">0500,0502,0510,0530,0542,0550</value>
+    </values>
+    <values>
+        <field>EligibleProfileForUTLCreation__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>EnableCommsBatches__c</field>
+        <value xsi:type="xsd:boolean">false</value>
+    </values>
+    <values>
+        <field>EnableLeaveBatches__c</field>
+        <value xsi:type="xsd:boolean">false</value>
+    </values>
+    <values>
+        <field>EnableSSBatches__c</field>
+        <value xsi:type="xsd:boolean">false</value>
+    </values>
+    <values>
+        <field>EnableUTLBatches__c</field>
+        <value xsi:type="xsd:boolean">false</value>
+    </values>
+    <values>
+        <field>ModuleName__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>PublicGroupCreationProfile__c</field>
+        <value xsi:nil="true"/>
+    </values>
+</CustomMetadata>

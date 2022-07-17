@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>INCOMPLETETRAILHEADNOTIFPDI</label>
+    <protected>false</protected>
+    <values>
+        <field>BaseURL__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>Content__c</field>
+        <value xsi:type="xsd:string">&lt;p&gt;You have not yet completed the “Get Started with People Data &amp; Insights (PDI)” module in Trailhead. This module will help you understand: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How to use our People dashboards, &lt;/li&gt;
+&lt;li&gt;How people data is managed, &lt;/li&gt;
+&lt;li&gt;And how to request support from the People Data &amp; Insights team.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This module will need to be completed before we can process any requests for access to Tableau or the People Insights Portal that have been submitted as part of the onboarding workflow.&lt;/p&gt;
+&lt;p&gt;To complete the module please select Action. Once logged in myTrailhead, search for &lt;b&gt;Get Started with People Data &amp; Insights (PDI)&lt;/b&gt; module.&lt;/p&gt;</value>
+    </values>
+    <values>
+        <field>PageName__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>SectionName__c</field>
+        <value xsi:nil="true"/>
+    </values>
+</CustomMetadata>

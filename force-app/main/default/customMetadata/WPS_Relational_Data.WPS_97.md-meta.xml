@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <description>Event Request-Events</description>
+    <label>97</label>
+    <protected>false</protected>
+    <values>
+        <field>Additional_Comments__c</field>
+        <value xsi:type="xsd:string">&lt;p&gt;&lt;span style=&quot;font-size: 14px; font-family: Arial; color: rgb(115, 115, 115);&quot;&gt;Please Note: To assist with the booking of your event, please check that your preferred location is available in Google Calendar.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px; font-family: Arial; color: rgb(115, 115, 115);&quot;&gt;Please be mindful that event bookings require significant lead time.&lt;/span&gt;&lt;/p&gt;</value>
+    </values>
+    <values>
+        <field>Category__c</field>
+        <value xsi:type="xsd:string">Event Request</value>
+    </values>
+    <values>
+        <field>Field_Set__c</field>
+        <value xsi:type="xsd:string">WPS_EventRequest_UI</value>
+    </values>
+    <values>
+        <field>Related_List_Needed__c</field>
+        <value xsi:type="xsd:boolean">false</value>
+    </values>
+    <values>
+        <field>Related_To__c</field>
+        <value xsi:type="xsd:string">UI</value>
+    </values>
+    <values>
+        <field>Sub_Category__c</field>
+        <value xsi:type="xsd:string">Events</value>
+    </values>
+</CustomMetadata>

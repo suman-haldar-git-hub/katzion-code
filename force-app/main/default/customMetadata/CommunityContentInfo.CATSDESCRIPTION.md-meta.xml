@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>CATSDESCRIPTION</label>
+    <protected>false</protected>
+    <values>
+        <field>BaseURL__c</field>
+        <value xsi:nil="true" />
+    </values>
+    <values>
+        <field>Content__c</field>
+        <value xsi:type="xsd:string">You&#39;ve now been provisioned in CATS (Woolworths&#39; timesheet and financial cross-charging system). As part of your engagement at Woolworths, you will need to complete a weekly timesheet via CATS. Your Woolworths line or project manager can assist with getting you started.&lt;br&gt;&lt;br&gt;
+
+1. Review this &lt;a href=&quot;/s/article/CATS-Timesheet-Management-System&quot;&gt;knowledge article&lt;/a&gt; for further information&lt;br&gt;
+2. Speak to your line or project manager to obtain your project and/or cost centre number as well as answer any further queries you may have&lt;br&gt;
+3. Please mark this task as done</value>
+    </values>
+    <values>
+        <field>PageName__c</field>
+        <value xsi:nil="true" />
+    </values>
+    <values>
+        <field>SectionName__c</field>
+        <value xsi:nil="true" />
+    </values>
+</CustomMetadata>
