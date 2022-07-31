@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-    <label>Talent Acquistion Support</label>
-    <protected>false</protected>
-    <values>
-        <field>TeamName__c</field>
-        <value xsi:type="xsd:string">Talent Acquisition &amp; Development Team</value>
-    </values>
-</CustomMetadata>
